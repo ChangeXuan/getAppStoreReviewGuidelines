@@ -12,4 +12,17 @@ App Store的引导(guidelines)原则很简单----我们想提供一个安全的�
 我们希望这些新的准则能更好更快的帮助你通过App的审核过程，and that approvals and rejections are more consistent across the board.这是一个动态的文件；在任何时间，新的应用产生新的问题，结果就会产生新的规则。也许你的应用将会触发这个规则。我们太喜欢这个平台了，也为你所做的感到光荣。我们尝试创建一个全世界最好的平台，用来展示你的才能以及用来谋生。<br>
 <br>
 
-##
+##在你提交之前
+为了帮助你的应用能够顺利的通过审核，查看下面列表中常见的错误，能够帮助你减少审核的时候和避免触发拒绝条件。这些不能代替规则或担保审批，但是你能检查好每一项，那将会是一个好的开始。<br>
+<br>
+###确保你(Make sure you)
+- 测试你的应用是否出现崩溃和BUG
+- 确保你的应用的信息和元数据(metadata)是完整和准确的
+- 更新的你联系信息，应用审核时需要去联系你。
+- 提供一个可以活动的账户和登陆信息，plus any other hardware or resources that might be needed to review your app(e.g. a sample QR code)
+- 确保后端服务器在审核期间能够正常的进入访问
+- Include detailed explanations of non-obvious features and IAPs in the App Review notes, including supporting documentation where appropriate。如果因为地域或者其他限制原因我们不能访问你的应用的某些部分，你可以提供一个链接跳转到一个用来展示功能的视频上。
+- Check whether your app follows guidance in other documentation, such as:。。。。。。
+
+###1.安全
+
