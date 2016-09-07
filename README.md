@@ -48,6 +48,8 @@ apps中用户产生的内容或者服务，最终会主要被用来传播黄色�
 <br>
 **孩子类别(Kids Category)**<br>
 这个孩子类别是一个伟大的方法对于让人们很容易的去找到适合孩子们的应用。如果你想参与孩子类别，你应该创造一个特别的伟大的经历给那些年轻的使用者。这个应用不应该包括跳转链接，购买机会，or other distractions to kids unless reserved for a designated area behind a parental gate。请记在心上，一旦有顾客从孩子类别中期待你的应用，你的应用将会需要继续去遵守这些准则在之后的更新，即使你决定取消这个类别。想学习更多，请看[parental gates.](https://developer.apple.com/app-store/parental-gates/)<br>
+<br>
+如果你的应用是孩子类别，那你的应用不能包括推送广告的行为(e.g. the advertiser may not serve ads based on the user’s activity)，和每一个广告的上下文内容都必须适合年轻的观看者。你也应该特别注意，在网络上收集儿童数据时，要注意法律法规。一定要去看[Privacy section](https://developer.apple.com/app-store/review/guidelines/#privacy)，关于警戒线的更多信息。<br>
 
 
 
